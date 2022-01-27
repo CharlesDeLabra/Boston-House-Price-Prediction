@@ -20,24 +20,16 @@
 
 ## Context
 
-Marketing Analytics broadly refers to the practice of using analytical methods and techniques to understand the effectiveness of various marketing activities and deploy data-driven decisions to optimize for ROI on conversion rates. It typically involves analyzing various metrics around customer engagement with various marketing activities including but not limited to, ATL (above the line) marketing activities, BTL (below the line) campaigns, targeting personalized offers. Typically the variables of interest are customer profile, campaign conversion rates, and costs associated with various marketing channels. These can generate valuable insights that can help an organization form better marketing strategies, optimize/innovate on delivery, and achieve overall growth
+In Bigger cities there is a tendency of house prices going up and because of this, there is a huge necessity of knowing the prices of houses deoending on aspects such as Neighbourhood, Distance to hubs, Age of house, etc. Boston as a big city have also this problem so there is a lot of data about houses and a crecent necessity for an accurate precision tool.
 
 ## Problem Statement
 
-Company 'All You Need' has hired you as a Data Scientist and you've been told by the Chief Marketing Officer that recent marketing campaigns have not been as effective as they were expected to be and the conversion rate is very low. Your task is to analyze the related data, understand the problem, and identify key insights and recommendations for the CMO to potentially implement.
-
-The data set marketing_data.csv consists of 2,240 customers of All You Need company with data on:
-
-- Campaign successes/failures
-- Product preferences
-- Channel performances
-- Customer profiles based on the spending habits
+The problem on hand is to predict the housing prices of a town or a suburb based on the features of the locality provided to us. In the process, we need to identify the most important features in the dataset. We need to employ techniques of data preprocessing and build a linear regression model that predicts the prices for us.
 
 ## Code
 
-The program was written on Jupyter Notebooks in Python Language. You can access to the code [here](https://github.com/CharlesDeLabra/EDA-Marketing-Campaign/blob/main/Learner_Notebook_Project_Marketing_Campaign_Analysis.ipynb)
+The program was written on Jupyter Notebooks in Python Language. You can access to the code [here](https://github.com/CharlesDeLabra/Boston-House-Price-Prediction/blob/main/Learners_Notebook_Boston_house_price.ipynb)
 
 ## Status
 
-The code is finished and have been evaluated, the goal was completed since the conclusions were given to the company in order to them to improve their
-campaigns based on the EDA Analysis and the plots and summaries obtained.
+The code is finished and have been evaluated, the goal was completed since it were develpo different model in order to predict prices of Boston Houses and they were good enough to trust their predictions
