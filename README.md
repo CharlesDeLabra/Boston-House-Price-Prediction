@@ -58,7 +58,7 @@ Attribute Information (in order):
 First it was needed to import the data from the CSV. The dataset look like this:
 <br>
 <p align="center">
-    <img src="https://github.com/CharlesDeLabra/Boston-House-Price-Prediction/blob/main/image/data1.png?raw=true" alt="Data" width=600 height=650> 
+    <img src="https://github.com/CharlesDeLabra/Boston-House-Price-Prediction/blob/main/image/data1.png?raw=true" alt="Data" width=800 height=850> 
 </p>
 <br>
 ## Conclusions
