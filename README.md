@@ -71,7 +71,7 @@ After that it was check for multicolinearity and correlation between variables. 
 After that it were removed the variables that did not have a significance of more than 0.05 and then it was printed again the summary of the model:
 <br>
 <p align="center">
-    <img src="https://github.com/CharlesDeLabra/Boston-House-Price-Prediction/blob/main/image/data3.png?raw=true" alt="Data" width=1000 height=500> 
+    <img src="https://github.com/CharlesDeLabra/Boston-House-Price-Prediction/blob/main/image/data3.png?raw=true" alt="Data" width=500 height=1000> 
 </p>
 <br>
 The next step was to check for the linear regression assumptions:
