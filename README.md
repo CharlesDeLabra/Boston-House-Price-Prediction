@@ -65,7 +65,7 @@ First it was needed to import the data from the CSV. The dataset look like this:
 After that it was check for multicolinearity and correlation between variables. Then it was decided to drop the TAX column in order to remove the multicolinearity and then a linear regression was trained on the model. The summary of the model was printed and is the next one:
 <br>
 <p align="center">
-    <img src="https://github.com/CharlesDeLabra/Boston-House-Price-Prediction/blob/main/image/data2.png?raw=true" alt="Data" width=1000 height=500> 
+    <img src="https://github.com/CharlesDeLabra/Boston-House-Price-Prediction/blob/main/image/data2.png?raw=true" alt="Data" width=500 height=1000> 
 </p>
 <br>
 After that it were removed the variables that did not have a significance of more than 0.05 and then it was printed again the summary of the model:
