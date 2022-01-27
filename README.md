@@ -14,7 +14,7 @@
 - [Problem Statement](#problem-statement)
 - [Code](#code)
 - [Status](#status)
-- [Data Information](#data-information
+- [Data Information](#data-information)
 - [Analysis](#analysis)
 - [Conclusions](#conclusions)
 - [Recomendations](#recomendations)
