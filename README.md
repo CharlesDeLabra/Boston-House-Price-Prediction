@@ -61,6 +61,30 @@ First it was needed to import the data from the CSV. The dataset look like this:
     <img src="https://github.com/CharlesDeLabra/Boston-House-Price-Prediction/blob/main/image/data1.png?raw=true" alt="Data" width=1000 height=500> 
 </p>
 <br>
+
+After that it was check for multicolinearity and correlation between variables. Then it was decided to drop the TAX column in order to remove the multicolinearity and then a linear regression was trained on the model. The summary of the model was printed and is the next one:
+<br>
+<p align="center">
+    <img src="https://github.com/CharlesDeLabra/Boston-House-Price-Prediction/blob/main/image/data2.png?raw=true" alt="Data" width=1000 height=500> 
+</p>
+<br>
+After that it were removed the variables that did not have a significance of more than 0.05 and then it was printed again the summary of the model:
+<br>
+<p align="center">
+    <img src="https://github.com/CharlesDeLabra/Boston-House-Price-Prediction/blob/main/image/data3.png?raw=true" alt="Data" width=1000 height=500> 
+</p>
+<br>
+The next step was to check for the linear regression assumptions:
+- The means of residuals was very close to 0
+- Residuals are homoscedastic.
+- Residual do not form a linear pattern
+- Residuals are normally distributed
+
+Then it was checked the performance on the train and dataset and the results were the next ones:
+- Train set: RMSE:0.19 MAE:0.14 MAPE:4.98
+- Test set: RMSE:0.19 MAE:0.15 MAPE:5.25
+
+The model is good on both of the data so it was explored if crossvalidation will help us to obtain better results. And with crossvalidation it was obtained a better model which ended being our final model.
 ## Conclusions
 
 - The value where all the value are 0 is 4.64
