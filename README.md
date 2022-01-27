@@ -8,3 +8,12 @@
   </p>
 </p>
 
+## Table of contents
+
+- [Context](#context)
+- [Problem Statement](#problem-statement)
+- [Code](#code)
+- [Status](#status)
+- [Analysis](#analysis)
+- [Conclusions](#conclusions)
+- [Recomendations](#recomendations)
