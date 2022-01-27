@@ -55,6 +55,12 @@ Attribute Information (in order):
 - **MEDV:**     Median value of owner-occupied homes in 1000 dollars
 ## Analysis
 
+First it was needed to import the data from the CSV. The dataset look like this:
+<br>
+<p align="center">
+    <img src="https://github.com/CharlesDeLabra/Boston-House-Price-Prediction/blob/main/image/data1.png?raw=true" alt="Data" width=600 height=650> 
+</p>
+<br>
 ## Conclusions
 
 - The value where all the value are 0 is 4.64
